@@ -13,10 +13,13 @@
 
 progress :
 
-- sketch
+- sketch - 30%
 
 <img src="/sketch.png" width="250" />
 
-- color
+- color - 80%
 
 <img src="/color.png" width="250" />
+
+- final
+  <img src="/phoebe.png" width="250" />
