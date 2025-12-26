@@ -16,3 +16,7 @@ progress :
 - sketch
 
 <img src="/sketch.png" width="250" />
+
+- color
+
+<img src="/color.png" width="250" />
