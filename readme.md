@@ -22,4 +22,5 @@ progress :
 <img src="/color.png" width="250" />
 
 - final
-  <img src="/phoebe.png" width="250" />
+
+<img src="/phoebe.png" width="250" />
